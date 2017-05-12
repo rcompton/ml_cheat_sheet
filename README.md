@@ -1,4 +1,4 @@
-#Supervised learning superstitions cheat sheet
+# Supervised learning superstitions cheat sheet
 
 This notebook contains my notes and beliefs about several commonly-used supervised learning algorithms. My dream is that it will be useful as a quick reference or for people who are studying for machine learning interviews/quizzes/etc..
 
